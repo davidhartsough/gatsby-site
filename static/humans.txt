@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  David Hartsough -- Designer, Developer -- @David_Hartsough
+
+# THANKS
+
+  David
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3

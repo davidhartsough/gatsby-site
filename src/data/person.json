@@ -1,0 +1,205 @@
+{
+  "person": {
+    "name": {
+      "first": "David",
+      "last": "Hartsough"
+    },
+    "links": [
+      {
+        "name": "Email",
+        "url": "mailto:hartsoughdavid@gmail.com"
+      },
+      {
+        "name": "Spotify",
+        "url": "https://play.spotify.com/user/davidhartsough"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/david.hartsough"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/davidhartsough/"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/user/mycheesegrater"
+      },
+      {
+        "name": "Vimeo",
+        "url": "https://vimeo.com/davidhartsough"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/davidhartsough"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/David_Hartsough"
+      },
+      {
+        "name": "Google Play",
+        "url": "https://play.google.com/store/apps/developer?id=David+Hartsough"
+      },
+      {
+        "name": "SoundCloud",
+        "url": "https://soundcloud.com/davidhartsough"
+      }
+    ],
+    "identities": [
+      "happy human",
+      "conversationalist",
+      "community builder",
+      "philosopher",
+      "psychologist",
+      "developer",
+      "drummer",
+      "musician",
+      "writer",
+      "videographer",
+      "designer",
+      "stuntman"
+    ],
+    "values": [
+      "purpose",
+      "intentionality",
+      "rationality",
+      "positivity",
+      "connection",
+      "humor",
+      "playfulness",
+      "curiosity",
+      "excitement",
+      "openness",
+      "vulnerability",
+      "understanding",
+      "empathy",
+      "introspection",
+      "wisdom",
+      "serenity",
+      "stability",
+      "confidence",
+      "ambition",
+      "vision",
+      "creativity",
+      "generativity",
+      "impact"
+    ],
+    "missions": [
+      {
+        "contribution": "outline the fundamentals of fostering flourishing",
+        "impact":
+          "establish the foundation of humanity's decision-making on the fulfilment of its needs"
+      },
+      {
+        "contribution": "cultivate connectedness",
+        "impact": "address the neglected problem of loneliness"
+      },
+      {
+        "contribution":
+          "create a community culture that celebrates curiosity, lifelong learning, and personal passion projects",
+        "impact": "inspire aspiration, ambition, and actualization"
+      }
+    ],
+    "projects": [
+      {
+        "name": "20 Question Introspection",
+        "url": "http://introspection.life/",
+        "timeframe": {
+          "start": 2017,
+          "end": null
+        },
+        "mission": {
+          "contribution":
+            "create a web app and Android app that provides people with 20 of life's biggest questions",
+          "impact":
+            "cultivate meaningful conversations, moments of reflection, and deeper understandings of the thoughts that define our perspectives"
+        }
+      },
+      {
+        "name": "HapiDaily",
+        "url": "http://hapidaily.com/",
+        "timeframe": {
+          "start": 2014,
+          "end": null
+        },
+        "mission": {
+          "contribution":
+            "create a web app that sends people daily prompts of practical and universal ways to have a positive impact",
+          "impact":
+            "empower people with ideas on how to make a difference in the lives of others through everyday expressions of love"
+        }
+      },
+      {
+        "name": "Wonderful World",
+        "url": "https://spotseeker.co/wonderful-world/",
+        "timeframe": {
+          "start": 2016,
+          "end": null
+        },
+        "mission": {
+          "contribution":
+            "create a web app that sequentially displays photospheres from randomly chosen coordinates on Earth",
+          "impact":
+            "give people both a deep sense of wanderlust and an appreciation for the diversity of this wonderful world"
+        }
+      },
+      {
+        "name": "Spot Seeker",
+        "url": "https://spotseeker.co/",
+        "timeframe": {
+          "start": 2014,
+          "end": null
+        },
+        "mission": {
+          "contribution":
+            "create a web app that provides a social cartography platform for people to mark, visit, and rate specific locations with granular coordinates",
+          "impact":
+            "encourage people to explore the most beautiful places nearby"
+        }
+      },
+      {
+        "name": "My Big Bio",
+        "url": "http://davidhartsough.com/mybig.bio/",
+        "timeframe": {
+          "start": 2016,
+          "end": 2017
+        },
+        "mission": {
+          "contribution":
+            "create a web app that provides people with a place to create a thorough and in-depth autobiography",
+          "impact":
+            "encourage people to outline their lives and define themselves through the practice of introspection and self-examination"
+        }
+      },
+      {
+        "name": "Answers From All",
+        "url": "http://davidhartsough.com/answersfromall.com/",
+        "timeframe": {
+          "start": 2014,
+          "end": 2017
+        },
+        "mission": {
+          "contribution":
+            "create a web app that encourages people to ask big questions and explore all answers",
+          "impact":
+            "aid people in the exploration of their perspectives on life"
+        }
+      },
+      {
+        "name": "3-a-day",
+        "url": "http://3-a-day.co/",
+        "timeframe": {
+          "start": 2016,
+          "end": null
+        },
+        "mission": {
+          "contribution":
+            "create a web app that provides people with a place to write down 3 things that went well and why they went well every day",
+          "impact":
+            "encourage people to practice positivity through a proven gratitude exercise created by positive psychologists"
+        }
+      }
+    ]
+  }
+}
