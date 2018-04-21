@@ -1,5 +1,15 @@
 {
   "person": {
+    "meta": {
+      "name": "David Hartsough",
+      "url": "http://davidhartsough.com/",
+      "keywords":
+        "david,hartsough,davidhartsough,values,identity,identities,missions,projects",
+      "description":
+        "David Hartsough is a happy human who loves discussing the philosophy and psychology of flourishing, connectedness, and identity.",
+      "color": "#198BED",
+      "twitter": "@David_Hartsough"
+    },
     "name": {
       "first": "David",
       "last": "Hartsough"

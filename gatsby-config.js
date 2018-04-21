@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: "David Hartsough's Writings",
-        short_name: "David Hartsough's Writings",
+        name: 'David Hartsough',
+        short_name: 'David Hartsough',
         description:
           'David Hartsough is a happy human who loves discussing the philosophy and psychology of flourishing, connectedness, and identity.',
         start_url: '/',

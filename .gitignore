@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# Yarn Lock file
+yarn.lock
+
+# Gatsby generated directories
+public/
+.cache/
